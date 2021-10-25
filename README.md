@@ -13,3 +13,6 @@ Then, flash into the ESP.
 cargo +xtensa espflash --release <usbport> --features="xtensa-lx-rt/lx106 xtensa-lx/lx106 esp8266-hal"
 ```
 Where **usbport** placeholder is usually **/dev/ttyUSB0**
+
+# Todo
+- Write in Register Level Programming
